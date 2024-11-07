@@ -1696,6 +1696,9 @@ ol {
   border-radius: 50%;
   float: left;
   margin-right: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .contact__widget__item__icon i {
   font-size: 30px;
